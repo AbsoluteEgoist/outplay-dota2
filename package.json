@@ -1,8 +1,8 @@
 {
   "name": "outplay-dota2",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "private": true,
-  "description": "Dota 2 match item, micro & macro analyzer using public OpenDota data",
+  "description": "Stable match review and OUTPLAY PRO preview (payments disabled)",
   "scripts": {
     "start": "node server.js",
     "dev": "node --watch server.js",
