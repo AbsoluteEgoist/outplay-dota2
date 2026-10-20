@@ -1,6 +1,6 @@
 {
   "name": "outplay-dota2",
-  "version": "3.1.0",
+  "version": "3.2.0",
   "private": true,
   "description": "Match analyzer with Steam game assets and Supabase account (payments disabled)",
   "scripts": {
